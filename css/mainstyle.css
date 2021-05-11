@@ -113,7 +113,11 @@ footer
 }
 
 @media only screen and (max-width: 375px)
-{
+{  
+    .body
+    {
+        width: 100vw;
+    }
     .container
 
     {  
@@ -146,8 +150,8 @@ footer
     {
         min-height: 5em;
     }
-
- 
+   
+   
 
    
 
