@@ -151,6 +151,14 @@ footer
         min-height: 5em;
     }
    
+    .legendback
+    {
+        color: rgba(0, 0, 0, 0);
+    }
+    .card
+    {
+        transform: none;
+    }
    
 
    
